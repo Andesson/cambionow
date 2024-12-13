@@ -1,0 +1,7 @@
+{
+  "name": "CambioNow",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
